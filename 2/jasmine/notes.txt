@@ -1,0 +1,7 @@
+testsuite: Like AppComponent. It is a bunch of tests
+
+
+selenium: integration tests
+jasime: unit tests
+
+mock is the the test variable

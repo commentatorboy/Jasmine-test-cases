@@ -1,0 +1,28 @@
+Unit test: functions and see if it works as intended or if it does NOT work as intended
+
+usability: pick target group, have them take tasks questions.
+
+
+E2E environment: End to end test. 
+
+acceptence tests:
+
+
+
+automated UI test: 
+
+
+objective:
+- Know basics of how/why you test, concepts, tools
+- Theory
+
+
+
+regression test: build new, and regret and build it again
+
+
+blackbox: we do not know what is inside of it. No source code.
+
+verify: give error but continue
+
+assert: expected outcome is true? and does not continue if it is error
